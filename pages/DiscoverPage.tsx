@@ -54,7 +54,7 @@ const DiscoverPage: React.FC<DiscoverPageProps> = ({ onCommunityClick, onOpenAut
                 onClick={() => onOpenAuth('LOGIN')}
                 className="px-6 py-3 rounded-xl border border-gray-300 text-gray-700 font-medium hover:border-gray-400 hover:bg-gray-50 transition-all"
               >
-                Log in
+                Giriş Yap
               </button>
               <button 
                 onClick={() => onOpenAuth('SIGNUP')}
